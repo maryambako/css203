@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.flyer {
+    width: 600px;
+    padding: 20px;
+    background: #ffffff;
+    border: 2px solid #ddd;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    color: #333;
+}
+
+.header {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 36px;
+    color: #e94e77;
+}
+
+.names h2{
+    font-size: 40px;
+    color: #333;
+    margin: 0;
+}
+
+.details {
+    margin: 20px 0;
+    font-size: 18px;
+}
+
+.details {
+    margin: 10px 0;
+}
+
+.Contact {
+    border-top: 2px solid #ddd;
+    padding-top: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.Contact {
+    margin: 5px 0;
+}
